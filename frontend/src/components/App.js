@@ -10,9 +10,9 @@ import { CurrentUserContext } from "../contexts/CurrentUserContext";
 import EditProfilePopup from "./EditProfilePopup";
 import EditAvatarPopup from "./EditAvatarPopup";
 import AddPlacePopup from "./AddPlacePopup";
-import Register from "./Register";
-import Login from "./Login";
-import InfoTooltip from "./InfoTooltip";
+import Register from "../../microfrontend_auth/сomponents/Register.js";
+import Login from "../../microfrontend_auth/сomponents/Login.js";
+import InfoTooltip from "../../microfrontend_auth/сomponents/InfoTooltip.js";
 import ProtectedRoute from "./ProtectedRoute";
 import * as auth from "../utils/auth.js";
 
