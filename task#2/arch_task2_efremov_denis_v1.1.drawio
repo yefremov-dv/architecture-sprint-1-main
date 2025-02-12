@@ -1106,8 +1106,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="v1.0_efremovd" id="ufb9XWS7LMw1yAE-cDjy">
-    <mxGraphModel dx="6113" dy="4813" grid="0" gridSize="10" guides="0" tooltips="0" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="v1.1_efremovd" id="ufb9XWS7LMw1yAE-cDjy">
+    <mxGraphModel dx="3348" dy="3208" grid="0" gridSize="10" guides="0" tooltips="0" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="CsM6gbGuXP_weLuKBFD4-0" />
         <mxCell id="CsM6gbGuXP_weLuKBFD4-1" parent="CsM6gbGuXP_weLuKBFD4-0" />
@@ -1582,13 +1582,13 @@
         <mxCell id="zbwVFfzEasiQs87Uqq-l-3" value="Обновить статус заявки на апелляцию" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=13;fontColor=#FFFFFF;strokeColor=none;" parent="zbwVFfzEasiQs87Uqq-l-0" vertex="1">
           <mxGeometry x="3" y="4.5" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YuZPci3YzxBZeItuFg6O-18" value="" style="group" vertex="1" connectable="0" parent="qeW6yC7HjZQFOj6csMXX-23">
+        <mxCell id="YuZPci3YzxBZeItuFg6O-18" value="" style="group" parent="qeW6yC7HjZQFOj6csMXX-23" vertex="1" connectable="0">
           <mxGeometry x="-54" y="-54" width="275" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="YuZPci3YzxBZeItuFg6O-19" value="&lt;p style=&quot;margin: 0px 0px 0px 13px; text-indent: -13px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 14px; line-height: normal; color: rgb(14, 14, 14); text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF77BF;strokeColor=none;arcSize=33;" vertex="1" parent="YuZPci3YzxBZeItuFg6O-18">
+        <mxCell id="YuZPci3YzxBZeItuFg6O-19" value="&lt;p style=&quot;margin: 0px 0px 0px 13px; text-indent: -13px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 14px; line-height: normal; color: rgb(14, 14, 14); text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF77BF;strokeColor=none;arcSize=33;" parent="YuZPci3YzxBZeItuFg6O-18" vertex="1">
           <mxGeometry x="31" y="33" width="203" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="YuZPci3YzxBZeItuFg6O-20" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;i&gt;React/JS/HTML/CSS&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;fontSize=23;fontStyle=1" vertex="1" parent="YuZPci3YzxBZeItuFg6O-18">
+        <mxCell id="YuZPci3YzxBZeItuFg6O-20" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;i&gt;React/JS/HTML/CSS&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;fontSize=23;fontStyle=1" parent="YuZPci3YzxBZeItuFg6O-18" vertex="1">
           <mxGeometry x="51.45161290322581" width="157.90322580645162" height="95" as="geometry" />
         </mxCell>
         <mxCell id="qeW6yC7HjZQFOj6csMXX-24" value="" style="group" parent="CsM6gbGuXP_weLuKBFD4-1" vertex="1" connectable="0">
@@ -1735,13 +1735,13 @@
         <mxCell id="IZz4uJJPTwrBjLTjjPSs-63" value="Поиск товаров" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=13;fontColor=#FFFFFF;strokeColor=none;container=0;" parent="6Z2zznY4Vbt1XLsQ39K3-2" vertex="1">
           <mxGeometry x="29" y="246.5" width="99" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YuZPci3YzxBZeItuFg6O-21" value="" style="group" vertex="1" connectable="0" parent="6Z2zznY4Vbt1XLsQ39K3-2">
+        <mxCell id="YuZPci3YzxBZeItuFg6O-21" value="" style="group" parent="6Z2zznY4Vbt1XLsQ39K3-2" vertex="1" connectable="0">
           <mxGeometry x="160" y="501" width="275" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="YuZPci3YzxBZeItuFg6O-22" value="&lt;p style=&quot;margin: 0px 0px 0px 13px; text-indent: -13px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 14px; line-height: normal; color: rgb(14, 14, 14); text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF77BF;strokeColor=none;arcSize=33;" vertex="1" parent="YuZPci3YzxBZeItuFg6O-21">
+        <mxCell id="YuZPci3YzxBZeItuFg6O-22" value="&lt;p style=&quot;margin: 0px 0px 0px 13px; text-indent: -13px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 14px; line-height: normal; color: rgb(14, 14, 14); text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF77BF;strokeColor=none;arcSize=33;" parent="YuZPci3YzxBZeItuFg6O-21" vertex="1">
           <mxGeometry x="31" y="33" width="203" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="YuZPci3YzxBZeItuFg6O-23" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;i&gt;React/JS/HTML/CSS&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;fontSize=23;fontStyle=1" vertex="1" parent="YuZPci3YzxBZeItuFg6O-21">
+        <mxCell id="YuZPci3YzxBZeItuFg6O-23" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;i&gt;React/JS/HTML/CSS&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;fontSize=23;fontStyle=1" parent="YuZPci3YzxBZeItuFg6O-21" vertex="1">
           <mxGeometry x="51.45161290322581" width="157.90322580645162" height="95" as="geometry" />
         </mxCell>
         <mxCell id="6Z2zznY4Vbt1XLsQ39K3-3" value="" style="group" parent="CsM6gbGuXP_weLuKBFD4-1" vertex="1" connectable="0">
@@ -1870,13 +1870,13 @@
         <mxCell id="cyvVlpFGQSHUhAnBGOSP-12" value="&lt;p style=&quot;margin: 0px 0px 0px 13px; text-indent: -13px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 14px; line-height: normal; color: rgb(14, 14, 14); text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Заказ.Статус&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#E11414;strokeWidth=3;" parent="6Z2zznY4Vbt1XLsQ39K3-3" vertex="1">
           <mxGeometry x="317" y="479" width="107" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="YuZPci3YzxBZeItuFg6O-27" value="" style="group" vertex="1" connectable="0" parent="6Z2zznY4Vbt1XLsQ39K3-3">
+        <mxCell id="YuZPci3YzxBZeItuFg6O-27" value="" style="group" parent="6Z2zznY4Vbt1XLsQ39K3-3" vertex="1" connectable="0">
           <mxGeometry x="560" y="490" width="275" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="YuZPci3YzxBZeItuFg6O-28" value="&lt;p style=&quot;margin: 0px 0px 0px 13px; text-indent: -13px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 14px; line-height: normal; color: rgb(14, 14, 14); text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF77BF;strokeColor=none;arcSize=33;" vertex="1" parent="YuZPci3YzxBZeItuFg6O-27">
+        <mxCell id="YuZPci3YzxBZeItuFg6O-28" value="&lt;p style=&quot;margin: 0px 0px 0px 13px; text-indent: -13px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 14px; line-height: normal; color: rgb(14, 14, 14); text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF77BF;strokeColor=none;arcSize=33;" parent="YuZPci3YzxBZeItuFg6O-27" vertex="1">
           <mxGeometry x="31" y="33" width="203" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="YuZPci3YzxBZeItuFg6O-29" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;i&gt;React/JS/HTML/CSS&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;fontSize=23;fontStyle=1" vertex="1" parent="YuZPci3YzxBZeItuFg6O-27">
+        <mxCell id="YuZPci3YzxBZeItuFg6O-29" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;i&gt;React/JS/HTML/CSS&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;fontSize=23;fontStyle=1" parent="YuZPci3YzxBZeItuFg6O-27" vertex="1">
           <mxGeometry x="51.45161290322581" width="157.90322580645162" height="95" as="geometry" />
         </mxCell>
         <mxCell id="ek6IjcJ_gzvceh8NgzDe-4" value="" style="group" parent="CsM6gbGuXP_weLuKBFD4-1" vertex="1" connectable="0">
@@ -2002,13 +2002,13 @@
         <mxCell id="xYbFh793f1L5qejrbxYp-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;i&gt;PostgreSQL&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;fontSize=23;fontStyle=1" parent="xYbFh793f1L5qejrbxYp-4" vertex="1">
           <mxGeometry x="22.14139072847682" width="63.56721854304636" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="YuZPci3YzxBZeItuFg6O-24" value="" style="group" vertex="1" connectable="0" parent="ek6IjcJ_gzvceh8NgzDe-4">
+        <mxCell id="YuZPci3YzxBZeItuFg6O-24" value="" style="group" parent="ek6IjcJ_gzvceh8NgzDe-4" vertex="1" connectable="0">
           <mxGeometry x="-62" y="-55" width="275" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="YuZPci3YzxBZeItuFg6O-25" value="&lt;p style=&quot;margin: 0px 0px 0px 13px; text-indent: -13px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 14px; line-height: normal; color: rgb(14, 14, 14); text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF77BF;strokeColor=none;arcSize=33;" vertex="1" parent="YuZPci3YzxBZeItuFg6O-24">
+        <mxCell id="YuZPci3YzxBZeItuFg6O-25" value="&lt;p style=&quot;margin: 0px 0px 0px 13px; text-indent: -13px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 14px; line-height: normal; color: rgb(14, 14, 14); text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF77BF;strokeColor=none;arcSize=33;" parent="YuZPci3YzxBZeItuFg6O-24" vertex="1">
           <mxGeometry x="31" y="33" width="203" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="YuZPci3YzxBZeItuFg6O-26" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;i&gt;React/JS/HTML/CSS&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;fontSize=23;fontStyle=1" vertex="1" parent="YuZPci3YzxBZeItuFg6O-24">
+        <mxCell id="YuZPci3YzxBZeItuFg6O-26" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;i&gt;React/JS/HTML/CSS&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;fontSize=23;fontStyle=1" parent="YuZPci3YzxBZeItuFg6O-24" vertex="1">
           <mxGeometry x="51.45161290322581" width="157.90322580645162" height="95" as="geometry" />
         </mxCell>
         <mxCell id="ek6IjcJ_gzvceh8NgzDe-5" value="" style="group" parent="CsM6gbGuXP_weLuKBFD4-1" vertex="1" connectable="0">
@@ -2984,13 +2984,13 @@
         <mxCell id="CsM6gbGuXP_weLuKBFD4-344" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Система/Сервис&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=13;" parent="CsM6gbGuXP_weLuKBFD4-342" vertex="1">
           <mxGeometry x="1" y="6" width="206" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YuZPci3YzxBZeItuFg6O-0" value="" style="group" vertex="1" connectable="0" parent="CsM6gbGuXP_weLuKBFD4-1">
+        <mxCell id="YuZPci3YzxBZeItuFg6O-0" value="" style="group" parent="CsM6gbGuXP_weLuKBFD4-1" vertex="1" connectable="0">
           <mxGeometry x="1731" y="810" width="275" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="YuZPci3YzxBZeItuFg6O-1" value="&lt;p style=&quot;margin: 0px 0px 0px 13px; text-indent: -13px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 14px; line-height: normal; color: rgb(14, 14, 14); text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF77BF;strokeColor=none;arcSize=33;" vertex="1" parent="YuZPci3YzxBZeItuFg6O-0">
+        <mxCell id="YuZPci3YzxBZeItuFg6O-1" value="&lt;p style=&quot;margin: 0px 0px 0px 13px; text-indent: -13px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 14px; line-height: normal; color: rgb(14, 14, 14); text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF77BF;strokeColor=none;arcSize=33;" parent="YuZPci3YzxBZeItuFg6O-0" vertex="1">
           <mxGeometry x="31" y="33" width="203" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="YuZPci3YzxBZeItuFg6O-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;i&gt;React/JS/HTML/CSS&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;fontSize=23;fontStyle=1" vertex="1" parent="YuZPci3YzxBZeItuFg6O-0">
+        <mxCell id="YuZPci3YzxBZeItuFg6O-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;i&gt;React/JS/HTML/CSS&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;fontSize=23;fontStyle=1" parent="YuZPci3YzxBZeItuFg6O-0" vertex="1">
           <mxGeometry x="51.45161290322581" width="157.90322580645162" height="95" as="geometry" />
         </mxCell>
         <mxCell id="ek6IjcJ_gzvceh8NgzDe-6" value="" style="group" parent="CsM6gbGuXP_weLuKBFD4-1" vertex="1" connectable="0">
@@ -3065,58 +3065,58 @@
         <mxCell id="NaDFpIjhijgfwqw-_aue-207" value="Валидация токена безопасности" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=13;fontColor=#FFFFFF;strokeColor=none;" parent="NaDFpIjhijgfwqw-_aue-204" vertex="1">
           <mxGeometry x="3" y="4.5" width="209" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MBYxbr9Z7oz9FbRsA-er-0" value="" style="group" vertex="1" connectable="0" parent="CsM6gbGuXP_weLuKBFD4-1">
+        <mxCell id="MBYxbr9Z7oz9FbRsA-er-0" value="" style="group" parent="CsM6gbGuXP_weLuKBFD4-1" vertex="1" connectable="0">
           <mxGeometry x="1731" y="445" width="275" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="MBYxbr9Z7oz9FbRsA-er-1" value="&lt;p style=&quot;margin: 0px 0px 0px 13px; text-indent: -13px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 14px; line-height: normal; color: rgb(14, 14, 14); text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF77BF;strokeColor=none;arcSize=33;" vertex="1" parent="MBYxbr9Z7oz9FbRsA-er-0">
+        <mxCell id="MBYxbr9Z7oz9FbRsA-er-1" value="&lt;p style=&quot;margin: 0px 0px 0px 13px; text-indent: -13px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 14px; line-height: normal; color: rgb(14, 14, 14); text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF77BF;strokeColor=none;arcSize=33;" parent="MBYxbr9Z7oz9FbRsA-er-0" vertex="1">
           <mxGeometry x="31" y="33" width="203" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="MBYxbr9Z7oz9FbRsA-er-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;i&gt;React/JS/HTML/CSS&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;fontSize=23;fontStyle=1" vertex="1" parent="MBYxbr9Z7oz9FbRsA-er-0">
+        <mxCell id="MBYxbr9Z7oz9FbRsA-er-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;i&gt;React/JS/HTML/CSS&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;fontSize=23;fontStyle=1" parent="MBYxbr9Z7oz9FbRsA-er-0" vertex="1">
           <mxGeometry x="51.45161290322581" width="157.90322580645162" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="YuZPci3YzxBZeItuFg6O-3" value="" style="group" vertex="1" connectable="0" parent="CsM6gbGuXP_weLuKBFD4-1">
+        <mxCell id="YuZPci3YzxBZeItuFg6O-3" value="" style="group" parent="CsM6gbGuXP_weLuKBFD4-1" vertex="1" connectable="0">
           <mxGeometry x="1731" y="1141" width="275" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="YuZPci3YzxBZeItuFg6O-4" value="&lt;p style=&quot;margin: 0px 0px 0px 13px; text-indent: -13px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 14px; line-height: normal; color: rgb(14, 14, 14); text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF77BF;strokeColor=none;arcSize=33;" vertex="1" parent="YuZPci3YzxBZeItuFg6O-3">
+        <mxCell id="YuZPci3YzxBZeItuFg6O-4" value="&lt;p style=&quot;margin: 0px 0px 0px 13px; text-indent: -13px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 14px; line-height: normal; color: rgb(14, 14, 14); text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF77BF;strokeColor=none;arcSize=33;" parent="YuZPci3YzxBZeItuFg6O-3" vertex="1">
           <mxGeometry x="31" y="33" width="203" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="YuZPci3YzxBZeItuFg6O-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;i&gt;React/JS/HTML/CSS&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;fontSize=23;fontStyle=1" vertex="1" parent="YuZPci3YzxBZeItuFg6O-3">
+        <mxCell id="YuZPci3YzxBZeItuFg6O-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;i&gt;React/JS/HTML/CSS&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;fontSize=23;fontStyle=1" parent="YuZPci3YzxBZeItuFg6O-3" vertex="1">
           <mxGeometry x="51.45161290322581" width="157.90322580645162" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="YuZPci3YzxBZeItuFg6O-6" value="" style="group" vertex="1" connectable="0" parent="CsM6gbGuXP_weLuKBFD4-1">
+        <mxCell id="YuZPci3YzxBZeItuFg6O-6" value="" style="group" parent="CsM6gbGuXP_weLuKBFD4-1" vertex="1" connectable="0">
           <mxGeometry x="1731" y="1850" width="275" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="YuZPci3YzxBZeItuFg6O-7" value="&lt;p style=&quot;margin: 0px 0px 0px 13px; text-indent: -13px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 14px; line-height: normal; color: rgb(14, 14, 14); text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF77BF;strokeColor=none;arcSize=33;" vertex="1" parent="YuZPci3YzxBZeItuFg6O-6">
+        <mxCell id="YuZPci3YzxBZeItuFg6O-7" value="&lt;p style=&quot;margin: 0px 0px 0px 13px; text-indent: -13px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 14px; line-height: normal; color: rgb(14, 14, 14); text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF77BF;strokeColor=none;arcSize=33;" parent="YuZPci3YzxBZeItuFg6O-6" vertex="1">
           <mxGeometry x="31" y="33" width="203" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="YuZPci3YzxBZeItuFg6O-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;i&gt;React/JS/HTML/CSS&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;fontSize=23;fontStyle=1" vertex="1" parent="YuZPci3YzxBZeItuFg6O-6">
+        <mxCell id="YuZPci3YzxBZeItuFg6O-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;i&gt;React/JS/HTML/CSS&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;fontSize=23;fontStyle=1" parent="YuZPci3YzxBZeItuFg6O-6" vertex="1">
           <mxGeometry x="51.45161290322581" width="157.90322580645162" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="YuZPci3YzxBZeItuFg6O-9" value="" style="group" vertex="1" connectable="0" parent="CsM6gbGuXP_weLuKBFD4-1">
+        <mxCell id="YuZPci3YzxBZeItuFg6O-9" value="" style="group" parent="CsM6gbGuXP_weLuKBFD4-1" vertex="1" connectable="0">
           <mxGeometry x="1135" y="598" width="275" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="YuZPci3YzxBZeItuFg6O-10" value="&lt;p style=&quot;margin: 0px 0px 0px 13px; text-indent: -13px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 14px; line-height: normal; color: rgb(14, 14, 14); text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF77BF;strokeColor=none;arcSize=33;" vertex="1" parent="YuZPci3YzxBZeItuFg6O-9">
+        <mxCell id="YuZPci3YzxBZeItuFg6O-10" value="&lt;p style=&quot;margin: 0px 0px 0px 13px; text-indent: -13px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 14px; line-height: normal; color: rgb(14, 14, 14); text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF77BF;strokeColor=none;arcSize=33;" parent="YuZPci3YzxBZeItuFg6O-9" vertex="1">
           <mxGeometry x="31" y="33" width="203" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="YuZPci3YzxBZeItuFg6O-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;i&gt;React/JS/HTML/CSS&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;fontSize=23;fontStyle=1" vertex="1" parent="YuZPci3YzxBZeItuFg6O-9">
+        <mxCell id="YuZPci3YzxBZeItuFg6O-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;i&gt;React/JS/HTML/CSS&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;fontSize=23;fontStyle=1" parent="YuZPci3YzxBZeItuFg6O-9" vertex="1">
           <mxGeometry x="51.45161290322581" width="157.90322580645162" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="YuZPci3YzxBZeItuFg6O-12" value="" style="group" vertex="1" connectable="0" parent="CsM6gbGuXP_weLuKBFD4-1">
+        <mxCell id="YuZPci3YzxBZeItuFg6O-12" value="" style="group" parent="CsM6gbGuXP_weLuKBFD4-1" vertex="1" connectable="0">
           <mxGeometry x="1135" y="816" width="275" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="YuZPci3YzxBZeItuFg6O-13" value="&lt;p style=&quot;margin: 0px 0px 0px 13px; text-indent: -13px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 14px; line-height: normal; color: rgb(14, 14, 14); text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF77BF;strokeColor=none;arcSize=33;" vertex="1" parent="YuZPci3YzxBZeItuFg6O-12">
+        <mxCell id="YuZPci3YzxBZeItuFg6O-13" value="&lt;p style=&quot;margin: 0px 0px 0px 13px; text-indent: -13px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 14px; line-height: normal; color: rgb(14, 14, 14); text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF77BF;strokeColor=none;arcSize=33;" parent="YuZPci3YzxBZeItuFg6O-12" vertex="1">
           <mxGeometry x="31" y="33" width="203" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="YuZPci3YzxBZeItuFg6O-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;i&gt;React/JS/HTML/CSS&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;fontSize=23;fontStyle=1" vertex="1" parent="YuZPci3YzxBZeItuFg6O-12">
+        <mxCell id="YuZPci3YzxBZeItuFg6O-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;i&gt;React/JS/HTML/CSS&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;fontSize=23;fontStyle=1" parent="YuZPci3YzxBZeItuFg6O-12" vertex="1">
           <mxGeometry x="51.45161290322581" width="157.90322580645162" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="YuZPci3YzxBZeItuFg6O-15" value="" style="group" vertex="1" connectable="0" parent="CsM6gbGuXP_weLuKBFD4-1">
+        <mxCell id="YuZPci3YzxBZeItuFg6O-15" value="" style="group" parent="CsM6gbGuXP_weLuKBFD4-1" vertex="1" connectable="0">
           <mxGeometry x="2258" y="451" width="275" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="YuZPci3YzxBZeItuFg6O-16" value="&lt;p style=&quot;margin: 0px 0px 0px 13px; text-indent: -13px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 14px; line-height: normal; color: rgb(14, 14, 14); text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF77BF;strokeColor=none;arcSize=33;" vertex="1" parent="YuZPci3YzxBZeItuFg6O-15">
+        <mxCell id="YuZPci3YzxBZeItuFg6O-16" value="&lt;p style=&quot;margin: 0px 0px 0px 13px; text-indent: -13px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 14px; line-height: normal; color: rgb(14, 14, 14); text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF77BF;strokeColor=none;arcSize=33;" parent="YuZPci3YzxBZeItuFg6O-15" vertex="1">
           <mxGeometry x="31" y="33" width="203" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="YuZPci3YzxBZeItuFg6O-17" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;i&gt;React/JS/HTML/CSS&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;fontSize=23;fontStyle=1" vertex="1" parent="YuZPci3YzxBZeItuFg6O-15">
+        <mxCell id="YuZPci3YzxBZeItuFg6O-17" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;i&gt;React/JS/HTML/CSS&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;fontSize=23;fontStyle=1" parent="YuZPci3YzxBZeItuFg6O-15" vertex="1">
           <mxGeometry x="51.45161290322581" width="157.90322580645162" height="95" as="geometry" />
         </mxCell>
       </root>
